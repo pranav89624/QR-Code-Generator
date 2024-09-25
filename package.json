@@ -1,0 +1,16 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "Generate QR Code by URL's.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pranav Verma",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^11.0.1",
+    "qr-image": "^3.2.0"
+  }
+}
